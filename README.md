@@ -30,8 +30,8 @@ A comprehensive learning management system built with React (Frontend) and Sprin
 
 ```
 IgaSolution/
-├── IgaBackend/          # Spring Boot REST API
-├── Igafrontend/         # React + Vite Frontend
+├── Backend/          # Spring Boot REST API
+├── Frontend/         # React + Vite Frontend
 └── README.md           # This file
 ```
 
